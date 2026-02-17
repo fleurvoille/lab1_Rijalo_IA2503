@@ -1,3 +1,10 @@
+let name = "Daria";
+let birthYear = 2007;
+let isStudent = true;
+console.log(name);
+console.log(birthYear);
+console.log(isStudent);
+
 let score = prompt("Введите ваш балл:");
 if (score >= 90) {
  console.log("Отлично!");
@@ -10,3 +17,4 @@ if (score >= 90) {
 for (let i = 1; i <= 5; i++) {
  console.log(`Итерация: ${i}`);
 }
+
