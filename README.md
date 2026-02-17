@@ -1,1 +1,0 @@
-# lab1_Rijalo_IA2503
